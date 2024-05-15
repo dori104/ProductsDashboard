@@ -45,6 +45,6 @@ To allow the user to drill down into the data, they can focus on a specific prod
 ### 📝Considerations
 Accessibility was considered when designing the dashboard. In particular, I ran screenshots of the dashboard through a <a href="https://www.color-blindness.com/coblis-color-blindness-simulator/">colour blindness simulator</a> to ensure that the colours can be distinguished by users with various types of colour blindness.
 <br></br>
-<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20-%20Protanomaly.png" width="33%">
-<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20-%20Protanopia.png" width="33%">
-<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20Deuteranomaly.png" width="33%">
+<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20-%20Protanomaly.png" width="25%">
+<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20-%20Protanopia.png" width="25%">
+<img src="https://github.com/dori104/ProductsDashboard/blob/main/Products%20Dashboard%20Deuteranomaly.png" width="25%">
